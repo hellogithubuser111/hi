@@ -1,0 +1,24 @@
+<apps>
+<app>
+<name>Women Saree Photo</name>
+<url>market://details?id=com.appbasic.womensareephoto</url>
+<image>http://appbasic.com/promimg/womensareeicon125.png</image>
+</app>
+<app>
+<name>Fall live wallpaper</name>
+<url>market://details?id=com.appbasic.falllivewallpaper</url>
+<image>http://appbasic.com/promimg/falllivewallpaper.png</image>
+</app>
+<app>
+<name>Neon flowers live wallpaper</name>
+<url>
+market://details?id=com.appbasic.neonflowerslivewallpaper
+</url>
+<image>http://appbasic.com/promimg/neonlivewallpaper.png</image>
+</app>
+<app>
+<name>Caller Name Announcer</name>
+<url>market://details?id=com.simpleapps.callername</url>
+<image>http://appbasic.com/promimg/callernamenew.png</image>
+</app>
+</apps>
