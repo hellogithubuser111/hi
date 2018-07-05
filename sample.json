@@ -3,23 +3,22 @@
     {
       "id": 1, 
       "name": "Vietnam",
-      "icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
-    }, 
+      
     {
       "id": 2, 
-      "name": "China","icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
+      
     }, 
     {
       "id": 3, 
-      "name": "USA","icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
+      "name": "USA"
     }, 
     {
       "id": 4, 
-      "name": "England","icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
+      "name": "England"
     }, 
     {
       "id": 10, 
-      "name": "Russia","icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
+      "name": "Russia"
     }
   ]
 }
