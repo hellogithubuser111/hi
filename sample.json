@@ -7,19 +7,23 @@
       
     {
       "id": 2, 
-      
+      "name": "Vietnam",
+      "icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/ic_launcher-web.png"
     }, 
     {
       "id": 3, 
-      "name": "USA"
+      "name": "USA","name": "Vietnam",
+      "icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/ic_launcher-web.png"
     }, 
     {
       "id": 4, 
-      "name": "England"
+      "name": "England","name": "Vietnam",
+      "icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/ic_launcher-web.png"
     }, 
     {
       "id": 10, 
-      "name": "Russia"
+      "name": "Russia","name": "Vietnam",
+      "icon": "https://github.com/hellogithubuser111/hi/blob/master/app/src/main/ic_launcher-web.png"
     }
   ]
 }
