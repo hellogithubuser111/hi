@@ -14,12 +14,8 @@
 <app>
 <name>Independence Day Wishes</name>
 <label>Warm Patriotic Wishes</label>
-<url>
-market://details?id=com.appbasic.independencedaywishes
-</url>
-<image>
-http://appbasic.com/promimg/indipendencewishes125.png
-</image>
+<url>market://details?id=com.appbasic.independencedaywishes</url>
+<image>http://appbasic.com/promimg/indipendencewishes125.png</image>
 </app>
 <app>
 <name>Friendship Day Photo Frames</name>
