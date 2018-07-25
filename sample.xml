@@ -1,24 +1,34 @@
 <apps>
 <app>
-<name>Women Saree Photo</name>
-<url>market://details?id=com.appbasic.womensareephoto</url>
-<image>http://appbasic.com/promimg/womensareeicon125.png</image>
+<name>Flash on call</name>
+<url>market://details?id=com.appbasic.flashoncall</url>
+<image>http://appbasic.com/promimg/flashoncallnew.png</image>
 </app>
 <app>
-<name>Fall live wallpaper</name>
-<url>market://details?id=com.appbasic.falllivewallpaper</url>
-<image>http://appbasic.com/promimg/falllivewallpaper.png</image>
-</app>
-<app>
-<name>Neon flowers live wallpaper</name>
+<name>Women Traditional Dresses</name>
 <url>
-market://details?id=com.appbasic.neonflowerslivewallpaper
+market://details?id=com.appbasic.womentraditionaldress
 </url>
-<image>http://appbasic.com/promimg/neonlivewallpaper.png</image>
+<image>
+http://appbasic.com/promimg/womentraditionalnew.png
+</image>
 </app>
 <app>
-<name>Caller Name Announcer</name>
-<url>market://details?id=com.simpleapps.callername</url>
-<image>http://appbasic.com/promimg/callernamenew.png</image>
+<name>Birthday Photo Frames Wishes</name>
+<url>
+market://details?id=com.appbasic.birthdayphotoframes
+</url>
+<image>
+http://appbasic.com/promimg/birthdayphotoframesnew.png
+</image>
+</app>
+<app>
+<name>Echo Magic Mirror Effect</name>
+<url>
+market://details?id=com.appbasic.echomagicmirroreffect
+</url>
+<image>
+http://appbasic.com/promimg/echomagicmirror1252.png
+</image>
 </app>
 </apps>
