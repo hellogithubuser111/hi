@@ -20,30 +20,20 @@
 <app>
 <name>Friendship Day Photo Frames</name>
 <label>Truly special time for friends</label>
-<url>
-market://details?id=com.appbasic.friendshipdayphotoframes
-</url>
-<image>
-http://appbasic.com/promimg/friendshipdaynew125.png
-</image>
+<url>market://details?id=com.appbasic.friendshipdayphotoframes</url>
+<image>http://appbasic.com/promimg/friendshipdaynew125.png</image>
 </app>
 <app>
 <name>Couple Traditional Dresses</name>
 <label>Fresh Traditional Look for You</label>
-<url>
-market://details?id=com.appbasic.coupletraditionaldresses
-</url>
-<image>
-http://appbasic.com/promimg/coupletraditionalnew.png
-</image>
+<url>market://details?id=com.appbasic.coupletraditionaldresses</url>
+<image>http://appbasic.com/promimg/coupletraditionalnew.png</image>
 </app>
 <app>
 <name>Rakhi Photo Frames</name>
 <label>Convey Raksha Bandhan Wishes </label>
 <url>market://details?id=com.appbasic.rakhiphotoframes</url>
-<image>
-http://appbasic.com/promimg/rakhiphotoframes125.png
-</image>
+<image>http://appbasic.com/promimg/rakhiphotoframes125.png</image>
 </app>
 <app>
 <name>Period Tracker</name>
